@@ -1,11 +1,9 @@
 ﻿#include <iostream>
 #include <iomanip>
-#include <string>
 #include <windows.h>
 #include <conio.h>
 #include <random>
 #include <fstream>
-#include <math.h>
 
 #define MAX (24 * 1024)
 
